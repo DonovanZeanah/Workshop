@@ -6,5 +6,10 @@ namespace Workshop
 				{
 						InitializeComponent();
 				}
+
+		private void button1_Click(object sender, EventArgs e)
+		{
+						var result = textBox1.Text
 		}
+	}
 }
