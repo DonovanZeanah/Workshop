@@ -24,6 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\..\(C#)\LIB\(CustomDataStructures)\CustomDataStructures.csproj" />
     <ProjectReference Include="..\WorkshopModels\WorkshopModels.csproj" />
   </ItemGroup>
 

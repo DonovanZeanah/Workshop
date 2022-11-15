@@ -38,5 +38,11 @@
         <ProjectReference Include=" ..\WorkshopDB\WorkshopDB.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="WebCam_Capture">
+      <HintPath>..\..\..\..\(C#)\LIB\DLL-webcam\WebCam_Capture.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
   
